@@ -1,0 +1,16 @@
+Bill_G: 
+ERROR: missing file or incorrect file name
+Chris_Roberts: 
+Total items checked: 1
+Points earned: 1
+
+Emily_Roberts: 
+Total items checked: 1
+Points earned: 0
+
+Evan_Roberts: 
+Total items checked: 1
+Points earned: 1
+
+Rusty_Llama: 
+ERROR: missing file or incorrect file name
